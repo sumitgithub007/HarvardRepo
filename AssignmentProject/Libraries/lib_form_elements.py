@@ -1,4 +1,4 @@
-lbl_whatisfaads = "xpath://h1[text()='What is the FAADS?']"
+lbl_whatisfaads = "xpath://h1[text()='What is the AssignmentProject?']"
 lbl_active_whatisfaads = "xpath://li[@class='active']/a[contains(text(),'What is the ')]"
 btn_submit_whatisfaads = "id:whatIsFaadsSubmit"
 

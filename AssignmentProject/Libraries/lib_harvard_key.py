@@ -22,6 +22,7 @@ lnk_do_not_trust_browser = "xpath://div/button[text()='No, other people use this
 
 # assignment_locators
 lnk_jsonFile1 = "xpath://*[text()='Download Sample1.JSON']"
+
 # demo_blaze_app_locators
 lnk_Login = "css:#login2"
 lnk_user_name = "css:#loginusername"

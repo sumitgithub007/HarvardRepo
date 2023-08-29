@@ -2,6 +2,7 @@
 Documentation    Login To Demoblaze Test
 Resource   ../Resources/res_demoblaze_login.robot
 Variables   ../Libraries/lib_harvard_key.py
+Library    DebugLibrary
 
 *** Variables ***
 ${valid_username}    ${demo_blz_usr}
